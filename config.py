@@ -4,9 +4,9 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-API_ID = 6435225
+API_ID = 16457832
 # -------------------------------------------------------------
-API_HASH = "4e984ea35f854762dcde906dce426c2d"
+API_HASH = "3030874d0befdb5d05597deacc3e83ab"
 # --------------------------------------------------------------
 BOT_TOKEN = getenv("BOT_TOKEN", "7442570619:AAGDHJtxnMX17aoE9au4HD_Zo11a7fWCQxg")
 STRING1 = getenv("STRING_SESSION", None)
